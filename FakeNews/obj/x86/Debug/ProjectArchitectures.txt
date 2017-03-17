@@ -1,0 +1,1 @@
+C:\Users\zach\Documents\Visual Studio 2015\Projects\FakeNews\FakeNews\FakeNews.csproj;x86
